@@ -1,0 +1,6 @@
+PUT https://shivakumarujhspnjscpscvyl.drops.nxtwave.tech/players/2/
+Content-Type: application/json
+
+{
+  "playerName": "Raju"
+}
